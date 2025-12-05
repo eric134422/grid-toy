@@ -1,1 +1,1 @@
-# grid-toy
+# grid-script by Eric
